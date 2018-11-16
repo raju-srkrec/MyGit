@@ -2,4 +2,5 @@
 VOID MAIN()
 {
   printf("hello raghu ");
+  printf("vinayak ");
 }
